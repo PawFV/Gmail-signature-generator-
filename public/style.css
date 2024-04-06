@@ -11,8 +11,8 @@ body {
 }
 
 .card {
-  width: 350px;
-  height: 260px;
+  width: 300px;
+  height: 300px;
 }
 
 form {
@@ -35,9 +35,6 @@ textarea {
 }
 .preview-html {
   height: auto;
-}
-.output-html {
-  scale: 0.6;
 }
 
 body {
